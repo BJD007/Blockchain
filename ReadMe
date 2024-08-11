@@ -1,11 +1,2 @@
 
-Decentralized Decision-Making: Blockchain can support decentralized decision-making processes in autonomous vehicle networks, 
-allowing vehicles to coordinate actions like lane changes or route optimizations without relying on a central authority.
-
-Implementing decentralized decision-making using blockchain for autonomous vehicle networks is a complex project that requires combining various technologies, including blockchain, smart contracts, and autonomous vehicle communication protocols. Below is a high-level outline of the project, including the necessary components and sample code snippets to guide you through the implementation.
-
-Project Components
-Blockchain Platform: Use a blockchain platform like Ethereum for decentralized decision-making.
-Smart Contracts: Develop smart contracts to handle coordination between vehicles.
-Vehicle Communication Interface: Create an interface to enable vehicles to communicate with the blockchain and each other.
-Simulation Environment: Use a simulation environment like CARLA or ROS for testing the system.
+Exiting updates coming soon!
